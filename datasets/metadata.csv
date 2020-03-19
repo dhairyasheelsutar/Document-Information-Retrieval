@@ -1,0 +1,512 @@
+,project,library,framework,dbs,file
+0,integrated spice modeling/simulation of circuits in schematic for responsive analysis,,,,./reports_doc/1.pdf
+1,secure online payment system using data hiding technique,,,,./reports_doc/102.pdf
+2,face detection and recognisation based attendance system,,,,./reports_doc/103.pdf
+3,3d image scanner,,angular,,./reports_doc/18.pdf
+4,attendance management system using face recognition,opencv,,,./reports_doc/22.pdf
+5,pcb segregation technique of,,,,./reports_doc/24.pdf
+6,leaf disease identification and grading of leaves using image processing,,,,./reports_doc/25.pdf
+7,smart theaterical light control system,,,,./reports_doc/29.pdf
+8,2d to 3d image conversion using machine learning approach to the in the of the for the award of the of of,opencv,,mysql,./reports_doc/2D TO 3D IMAGE CONVERSION USING_MACHINE LEARNING APPROACH.pdf
+9,rolling display,,,sqlite,./reports_doc/34.pdf
+10,implementation of voice controlled robot manipulator,,,,./reports_doc/35.pdf
+11,artistic style transfer,,,,./reports_doc/38.pdf
+12,3d image terrain classification using machine learning,scikit-learn scipy numpy,react,sqlite postgresql mysql,./reports_doc/3D-image terrain classification using machine learning_46.pdf
+13,image annotation picture to story,tensorflow numpy kera,,,./reports_doc/50.pdf
+14,dbms with sql interpreter,,,mysql,./reports_doc/52.pdf
+15,automatic breaking system,,angular,,./reports_doc/54.pdf
+16,indian sign language recognition,,,,./reports_doc/56.pdf
+17,social an event based intelligent information system,,angularjs react backbone.js,sqlite,./reports_doc/76.pdf
+18,use of texture analysis operators for facial expression analysis,opencv scipy numpy,django,,./reports_doc/85.pdf
+19,legged robot design construction and control of hexapod robot,,angular,,./reports_doc/90.pdf
+20,audio production from musical instrument 's video clip,opencv,,,./reports_doc/91.pdf
+21,optical character recognition for typewritten english text,,,,./reports_doc/93.pdf
+22,puzzle solver,,,,./reports_doc/97.pdf
+23,securing your security,,,,./reports_doc/99.pdf
+24,cryptosystem for encryption of data using images for key generation to the in the of the for the award of the of of,opencv scipy numpy,,,./reports_doc/A CRYPTOSYSTEM FOR ENCRYPTION OF_DATA USING IMAGES FOR KEY_GENERATION.pdf
+25,fast distributed key-value store based on the raft protocol and judy arrays of the of,,react,,./reports_doc/A fast distributed key-value store based on_the RAFT protocol and Judy arrays_37.pdf
+26,analysis of gene regulation using deep learning to the in the of the for the award of the of of,panda scipy numpy kera,,,./reports_doc/A NALYSIS OF G ENE R EGULATION USING_D EEP L EARNING.pdf
+27,system for language translation to the in the of the for the award of the of of,tensorflow kera,flask,,./reports_doc/A SYSTEM FOR LANGUAGE TRANSLATION.pdf
+28,accelerating foreign language learning of the of,beautifulsoup4,django,sqlite,./reports_doc/Accelerating Foreign Language Learning_62.pdf
+29,adaptive traﬃc congestion control,,,mysql,./reports_doc/Adaptive Traffic Congestion Control.pdf
+30,advance database security using secured layer,,,mysql,./reports_doc/Advance_Database_Security_Using_Secure_Layer.pdf
+31,ai buddy to the in the of the for the award of the of of,panda scipy tensorflow,,,./reports_doc/AI BUDDY.pdf
+32,ai- assisted potential health risk predictor to the in the of the for the award of the of of,,,mysql,./reports_doc/AI- ASSISTED POTENTIAL HEALTH RISK_PREDICTOR.pdf
+33,air pollution detection with navigation system to the in the of the for the award of the of of,,angular,mysql mariadb,./reports_doc/AIR POLLUTION DETECTION WITH_NAVIGATION SYSTEM.pdf
+34,an iot gateway for interfacing ble peripherals to cloud of the of,,,,./reports_doc/An IoT GATEWAY FOR INTERFACING BLE PERIPHERALS TO CLOUD.pdf
+35,analysis of indian stock market analysts,panda spacy beautifulsoup4,django,sqlite mysql,./reports_doc/Analysis of Indian Stock Market Analysts.pdf
+36,analysis of privacy policies via machine learning to the in the of the for the award of the of of,nltk panda scikit-learn,django,mongodb,./reports_doc/ANALYSIS OF PRIVACY POLICIES VIA_MACHINE LEARNING.pdf
+37,analysis of videos using deep learning and high performance computing,numpy scipy scikit-learn opencv tensorflow,flask,,./reports_doc/Analysis of Videos using Deep Learning and High Performance_Computing.pdf
+38,charachterisitics provided by the analysis of workload and its hypervisor and recommend optimal fit in cloud to the in the of the for the award of the of of,,flask,mysql,./reports_doc/ANALYSIS OF WORKLOAD AND ITS_CHARACHTERISITICS PROVIDED BY THE_HYPERVISOR AND RECOMMEND_OPTIMAL FIT IN CLOUD.pdf
+39,analytics dashboard of e-commerce backend,,,mysql,./reports_doc/Analytics Dashboards of E-commerce Backend_12.pdf
+40,analyze clickstream data and understand user intent to personalize advertisements of the of,pyspark,react,hbase cassandra,./reports_doc/analyze online clickstream data to understand user intent and personalized ads_25.pdf
+41,analyzing product image/metadata based on click through rates for advertisement logistics,panda tensorflow numpy kera,angular,,./reports_doc/Analyzing Product Image-Metadata Based On Click Through Rate For Advertisement Logistics_61.pdf
+42,title of the of,scipy numpy scikit-learn,flask,mongodb,./reports_doc/ANDROID BASED SOLUTION FOR ANALYSIS OF_POST-HARVEST LOSSES AND PREVENTIVE_MEASURES USING MACHINE LEARNING_15.pdf
+43,android malware detection using machine learning,,,,./reports_doc/Android Malware Detection Using Machine Learning_67.pdf
+44,answering open ended questions based on images using deep learning approach to the in the of the for the award of the of of,spacy numpy kera scipy opencv,,,./reports_doc/ANSWERING OPEN ENDED QUESTIONS_BASED ON IMAGES USING DEEP_LEARNING APPROACH.pdf
+45,application to determine the safest route using crime analysis via decision tree algorithm of the of,,flask,sqlite mysql,./reports_doc/APPLICATION TO DETERMINE THE SAFEST ROUTE USING CRIME JANALYSIS VIA DECISION TREE JALGORITHM_78.pdf
+46,applications of deep neural networks in domain agnostic recommendation engine of the of,panda scikit-learn scipy numpy,flask,redis,./reports_doc/Applications of Deep Neural Networks in Domain Agnostic Recommendation Engine_57.pdf
+47,article classification and recommendation system of the of,anaconda fasttext spyder spacy,,mongodb,./reports_doc/Article Classification and Recommendation system.pdf
+48,audit and compliance in service management using blockchain to the in the of the for the award of the of of,,,,./reports_doc/AUDIT AND COMPLIANCE IN SERVICE_MANAGEMENT USING BLOCKCHAIN.pdf
+49,auto painter text to image synthesis to the in the of the for the award of the of of,numpy panda pytorch anaconda opencv,flask,,./reports_doc/AUTO PAINTER_ TEXT TO IMAGE_SYNTHESIS.pdf
+50,auto-classiﬁcation of tickets in it service management,,,,./reports_doc/Auto-Classification of Tickets in IT Service Management_19.pdf
+51,automated braking test for vehicle licenses to the in the of the for the award of the of of,,flask,,./reports_doc/AUTOMATED BRAKING TEST FOR_VEHICLE LICENSES.pdf
+52,automated financial portfolio building towards the of the of of,,,mysql,./reports_doc/AUTOMATED FINANCIAL PORTFOLIO BUILDING_57.pdf
+53,automated glaucoma detection to the in the of the for the award of the of of,opencv kera,reactjs,,./reports_doc/AUTOMATED GLAUCOMA DETECTION.pdf
+54,automated log analysis and filtering,,,postgresql mysql,./reports_doc/AUTOMATED LOG ANALYSIS AND FILTERING_73.pdf
+55,automated power measurement system of the of,,,mysql,./reports_doc/Automated Power Measurement System_79.pdf
+56,automated sound quality enhancer assistant to the in the of the for the award of the of of,panda tensorflow numpy,,,./reports_doc/Automated Sound Quality Enhancer Assistant.pdf
+57,automatic information extraction from text documents to the in the of the for the award of the of of,nltk panda spacy fasttext,,neo4j,./reports_doc/AUTOMATIC INFORMATION EXTRACTION_FROM TEXT DOCUMENTS.pdf
+58,automatic notiﬁcation bot using web mining for event analysis,,flask,mongodb,./reports_doc/Automatic Notification Bot Using Web JMining for Event Analysis_72.pdf
+59,automatic sql query formation using nlp of the of,nltk panda numpy,flask react,mysql,./reports_doc/Automatic SQL Query Formation using NLP.pdf
+60,recommendation system for bank customers using statistical learning of the of,anaconda spyder,django,,./reports_doc/Banking_Recommendation_system.pdf
+61,iot based parameter monitoring system for agriculture,,,,./reports_doc/BE49.pdf
+62,beam digitizing content in advertising,,flask,mysql,./reports_doc/BEAM-DIGITIZING_CONTENT_IN_ADVERTISING.pdf
+63,smart railway reservation and ticketing system,,,sqlite mysql,./reports_doc/BEREPORT.pdf
+64,sentiment analysis of customer feedback on web,,angular,mongodb,./reports_doc/BE_PROJECT_REPORT_FORMAT_TERM_II_LATEX_FILE_68.pdf
+65,bitcoin price prediction using machine certificate learning to this is to certify that the report entitled bitcoin price prediction using machine learning of the for for the award of the of has been successfully completed by of sakshi valecha b120053273 siddhi velankar b120053278 shreya maji electronics and telecommunication in b120053 by is bona fide work carried out by them under the guidance of assistant prof. k. v. shreya maji b120053134 sakshi valecha b120053273 siddhi velankar b120053278 sakhare and it is approved for the of the requirement of the for the award of the of the of electronics and telecommunication this work has not been guide earlier,tensorflow kera,,,./reports_doc/BE_report_final.pdf
+66,bitcoin price prediction using machine certificate learning to this is to certify that the report entitled bitcoin price prediction using machine learning of the for for the award of the of has been successfully completed by of sakshi valecha b120053273 siddhi velankar b120053278 shreya maji electronics and telecommunication in b120053 by is bona fide work carried out by them under the guidance of assistant prof. k. v. shreya maji b120053134 sakshi valecha b120053273 siddhi velankar b120053278 sakhare and it is approved for the of the requirement of the for the award of the of the of electronics and telecommunication this work has not been guide earlier,tensorflow kera,,,./reports_doc/BE_report_final3.pdf
+67,biomedical tumor segmentation,numpy kera anaconda opencv tensorflow,django,,./reports_doc/Biomedical Tumor Segmentation.pdf
+68,biometric based rto license checking and fine system of the of,,,mysql,./reports_doc/Biometric Based RTO License Checking_And Fine system.pdf
+69,business analytics dashboard,nltk panda numpy scikit-learn,,mongodb,./reports_doc/BUSINESS ANALYTICS DASHBOARD_9.pdf
+70,canvazify collaboration saas platform on mobile devices of the for the award of,,,mysql,./reports_doc/Canvazify _ Collaboration SAAS platform on mobile_devices_72.pdf
+71,chatbot for automated customer support,nltk panda beautifulsoup4,flask,,./reports_doc/Chatbot for automated customer support.pdf
+72,classification of abstract images using machine learning,scipy tensorflow numpy kera,,,./reports_doc/Classification of abstract images using machine learning_66.pdf
+73,classifying users and identifying user interests based on semantic and contextual analysis to the in the of the for the award of the of of,nltk panda anaconda kera,flask,,./reports_doc/CLASSIFYING USERS AND IDENTIFYING_USER INTERESTS BASED ON SEMANTIC AND_CONTEXTUAL ANALYSIS.pdf
+74,cloud based magixphone and web gaming platform of the of,,angular angularjs express.js,mongodb,./reports_doc/Cloud based Magixphone and web gaming platform_38.pdf
+75,code impact analyzer to the in the of the for the award of the of of,,flask,,./reports_doc/CODE IMPACT ANALYZER.pdf
+76,cognitive intelligence and knowledge based classification and reasoning to the in the of the for the award of the of of,,,mysql,./reports_doc/COGNITIVE INTELLIGENCE AND_KNOWLEDGE BASED CLASSIFICATION_AND REASONING.pdf
+77,compliance engine for databases to the in the of the for the award of the of of,,react,,./reports_doc/COMPLIANCE ENGINE FOR DATABASES.pdf
+78,comprehensive developer assistant coda to the in the of the for the award of the of of,pytorch kera,flask,,./reports_doc/COMPREHENSIVE DEVELOPER ASSISTANT_(CODA).pdf
+79,conditional gif generation using gans of the of,numpy kera pytorch anaconda opencv,,,./reports_doc/Conditional GIF Generation Using GANS.pdf
+80,connected component labelling of the of,opencv,,,./reports_doc/Connected_Component_Labelling_45.pdf
+81,construct 3d objects from multiple views to the in the of the for the award of the of of engineeringv,panda opencv numpy,,,./reports_doc/CONSTRUCT 3D COMPUTER OBJECTS_FROM MULTIPLE VIEWS.pdf
+82,content based image retrieval of t-shirts,opencv,,mysql mongodb,./reports_doc/Content Based Image Retrieval of T-Shirts_55.pdf
+83,context aware book recommendation system of the of,nltk numpy,,mongodb,./reports_doc/Context aware book recommendation system_27.pdf
+84,contextual analysis based on summarized text of conversation to the in the of the for the award of the of of,panda scipy kera,flask,,./reports_doc/CONTEXTUAL ANALYSIS BASED ON_SUMMARIZED TEXT OF CONVERSATION.pdf
+85,contextual recommendation and summarization of enterprise communication to the in the of the for the award of the of of,panda pytorch spacy kera,flask,mysql,./reports_doc/CONTEXTUAL RECOMMENDATION AND_SUMMARIZATION OF ENTERPRISE_COMMUNICATION.pdf
+86,conversion of marathi text to braille using optical character recognition to the in the of the for the award of the of of,opencv numpy kera,flask,,./reports_doc/CONVERSION OF MARATHI TEXT TO_BRAILLE USING OPTICAL CHARACTER_RECOGNITION.pdf
+87,conversion of video containing sign language to textual format to the in the of the for the award of the of of,numpy kera panda scipy opencv tensorflow,,mysql,./reports_doc/CONVERSION OF VIDEO CONTAINING SIGN_LANGUAGE TO TEXTUAL FORMAT.pdf
+88,hosting server on android phones using nano-httpd and mqtt protocol,panda,,,./reports_doc/Creating server on android phone using NanoHTTPD.pdf
+89,credit card fraud detection system to the in the of the for the award of the of of,,,,./reports_doc/CREDIT CARD FRAUD DETECTION_SYSTEM.pdf
+90,crop production estimation of the of,scikit-learn panda spyder numpy,,mysql,./reports_doc/Crop Production Estimation.pdf
+91,crop yield prediction using data mining techniques of the of,,,mysql,./reports_doc/Crop yield estimation using Data mining techniques..pdf
+92,crop disease detection,numpy kera spyder scipy anaconda tensorflow,flask,,./reports_doc/Crop_disease_detection.pdf
+93,customer decision support system of the of,,,mongodb,./reports_doc/CustomerDecisionSupportSystem_39.pdf
+94,deep learning in medical image analysis to the in the of the for the award of the of of,panda opencv numpy kera,flask,,./reports_doc/DEEP LEARNING IN MEDICAL IMAGE_ANALYSIS.pdf
+95,demand forecasting for inventory optimization to the in the of the for the award of the of of,panda numpy,flask,sqlite,./reports_doc/DEMAND FORECASTING FOR INVENTORY_OPTIMIZATION.pdf
+96,design framework for e-commerce application of the of,,,mysql,./reports_doc/DESIGN FRAMEWORK FOR_E-COMMERCE APPLICATION_37.pdf
+97,detecting cervical abnormalities using machine learning to the in the of the for the award of the of of,numpy kera panda anaconda opencv,,mysql,./reports_doc/DETECTING CERVICAL ABNORMALITIES_USING MACHINE LEARNING.pdf
+98,detecting student engagement in lecture using deep learning to the in the of the for the award of the of of,panda opencv numpy kera,flask,mysql,./reports_doc/DETECTING STUDENT___S ENGAGEMENT IN_LECTURE USING DEEP LEARNING.pdf
+99,detection of diabetic retinopathy using vision of the of,numpy kera tensorflow-gpu anaconda tensorflow,flask,,./reports_doc/Detection Of Diabetic Retinopathy Detection Using Computer Vision.pdf
+100,developing cross platform app for farmers for suggesting agricultural products of the of,,,,./reports_doc/Developing Cross Platform App For Farmers For Suggesting Agricultural Products.pdf
+101,development of intelligent automated indoor navigator and assistance system,,,,./reports_doc/Development of Intelligent automated indoor_navigator and assistance system.pdf
+102,development of location and navigation services in complex indoor scenes based on the android mobile computing platform,,react,mysql,./reports_doc/DEVELO~1.PDF
+103,differentiating between legitimate and attacker vm,,,,./reports_doc/Differentiating Between Attacker And Legitimate VM.pdf
+104,digital college of the of,,,mysql,./reports_doc/Digital_College.pdf
+105,dimension extraction of an object using machine vision to the in the of the for the award of the of of,opencv,,,./reports_doc/DIMENSION EXTRACTION OF AN OBJECT_USING MACHINE VISION.pdf
+106,direct transfer from data devices,,,,./reports_doc/DIRECT TRANSFER FROM DATA DEVICES_56.pdf
+107,disease detection using ayurvedic pulse diagnosis,scikit-learn panda numpy,react,mysql,./reports_doc/Disease Detection using ayurvedic pulse diagnosis.pdf
+108,disease diagnosis using nadi parikshan,,react,mysql,./reports_doc/Disease Diagnosis Using Nadi Parikshan_44.pdf
+109,disease prediction using machine learning,panda anaconda numpy,,,./reports_doc/Disease prediction using machine learning_55.pdf
+110,detection of distracted driver using deep learning of the of,numpy kera panda anaconda opencv,,,./reports_doc/Distracted_Driver_Detection_ Using_Deep_Learning.pdf
+111,automated attendance system using face recognition,opencv tensorflow,,,./reports_doc/Download File.pdf
+112,drone droid of the of,,react,,./reports_doc/DRONE DROID_58.pdf
+113,dynamic forms ui/ux,,angular,mongodb,./reports_doc/Dynamic Forms - UI UX.pdf
+114,dynamic load balancing of web servers,,,,./reports_doc/Dynamic load balancing of web servers.pdf
+115,dynamic pricing in the food industry of the of,,angularjs express.js,mongodb,./reports_doc/DynamicFoodPricing.pdf
+116,e-care android application for health monitoring and human physical activity classiﬁcation,,,,./reports_doc/E-Care-Android Application For Health Monitoring_73.pdf
+117,e-glove health monitoring system using wearable computing iot and data mining to the in the of the for the award of the of of,,,,"./reports_doc/E-GLOVE_ A HEALTH MONITORING_SYSTEM USING WEARABLE COMPUTING,_IoT AND DATA MINING.pdf"
+118,to determine state of driver to make driving safer ecg monitoring,,,redis mongodb,./reports_doc/ECG MONITORING FOR DRIVER ANALYSIS_17.pdf
+119,efficient diabetes risk assessment in patients using machine learning algorithms to the in the of the for the award of the of of,scipy numpy scikit-learn,,,./reports_doc/EFFICIENT DIABETES RISK ASSESSMENT IN_PATIENTS USING MACHINE LEARNING_ALGORITHMS.pdf
+120,election result prediction using sentimental analysis on twitter data to the in the of the for the award of the of of,nltk numpy panda scipy opencv,flask,,./reports_doc/ELECTION RESULT PREDICTION USING_SENTIMENTAL ANALYSIS ON TWITTER DATA.pdf
+121,emergency blood requirement system,,react,,./reports_doc/Emergency Blood Requirement system_48.pdf
+122,emotion based music player to the in the of the for the award of the of of,,,mysql,./reports_doc/EMOTION BASED MUSIC PLAYER.pdf
+123,enhanced framework for true sight network automation to the in the of the for the award of the of of,,angular angularjs,postgresql,./reports_doc/ENHANCED FRAMEWORK FOR TRUE_SIGHT NETWORK AUTOMATION.pdf
+124,erp system for flexible transportation service,,,mongodb,./reports_doc/ERP SYSTEM FOR A FLEXIBLE TRANSPORTATION_SERVICE_30.pdf
+125,ethereum based blockchain implementation of peer review system to the in the of the for the award of the of of,,,mongodb,./reports_doc/ETHEREUM BASED BLOCKCHAIN_IMPLEMENTATION OF PEER REVIEW_SYSTEM.pdf
+126,event driven process orchestration of the of,,,,./reports_doc/Event_Driven_Process_Orchestration_59.pdf
+127,exploring alternative approaches to control forwarding path of packets in virtual networks of the of,,,,./reports_doc/Exploring alternative approaches to control forwarding path of packets in virtual networks_4.pdf
+128,expressive english text-to-speech synthesis system of the of,nltk scipy scikit-learn kera,react,,./reports_doc/Expressive English Text-to-Speech Synthesis System_7.pdf
+129,face recognition in videos of the of,opencv tensorflow numpy kera,,,./reports_doc/Face Recognition in Videos.pdf
+130,fashion recommendation and design using machine learning to the in the of the for the award of the of of,scipy opencv kera,,,./reports_doc/FASHION RECOMMENDATION AND_DESIGN USING MACHINE LEARNING.pdf
+131,fast and efﬁcient compression method for real time systems,opencv,,,./reports_doc/Fast and efficient compression method for real time systems_41.pdf
+132,high power amplifier system,,,,./reports_doc/final BE report.pdf
+133,high power amplifier system,,,,./reports_doc/final BE report1.pdf
+134,fingerprint based attendance system,,,mysql,./reports_doc/final Be Report2.pdf
+135,donorx networking for organ and blood donors and recipients,,,mysql,./reports_doc/Final full report.pdf
+136,fingerprint based portable attendance system,,,,./reports_doc/Final gts.pdf
+137,voip using wlan,,,,./reports_doc/Final Report(Group No 95).pdf
+138,food quality inspection using vision to the in the of the for the award of the of of,numpy kera panda anaconda opencv,,,./reports_doc/FOOD QUALITY INSPECTION USING_COMPUTER VISION.pdf
+139,galaxy morphology prediction using convolutional neural networks,numpy kera panda scipy scikit-learn tensorflow,react,,./reports_doc/Galaxy Morphology Prediction using Convolutional_Neural Networks_64.pdf
+140,generic replicator framework of the of,,,,./reports_doc/Generic Replicator Framework.pdf
+141,generic sdk for zephyr os to connect aws iot cloud of the of,,,,./reports_doc/Generic SDK for zephyr OS to connect AWS IoT cloud.pdf
+142,generic user activity analysis and prediction,,,hbase mongodb,./reports_doc/Generic User Activity Analysis And Prediction_34.pdf
+143,generic trafﬁc shaper,,django react,mysql,./reports_doc/Generic_Traffic_Shaper_19.pdf
+144,geo-enabled property tax mapping of the of,,angular angularjs express.js ionic,mongodb,./reports_doc/GEO-ENABLED PROPERTY TAX.pdf
+145,gesture aware interactive presentation system to the in the of the for the award of the of of,opencv numpy,,,./reports_doc/GESTURE AWARE INTERACTIVE_PRESENTATION SYSTEM.pdf
+146,gps supported city bus tracking and trip planner,,,,./reports_doc/GPS SUPPORTED CITY BUS TRACKING AND TRIP PLANNER_53.pdf
+147,gpu framework utilities,,,,./reports_doc/GPU Framework Utilities Group_id_80.pdf
+148,image text to speech conversion,,,,./reports_doc/Group 12 Final Report.pdf
+149,video game programming,,,,./reports_doc/Group 40 PICT BE E&TC - Video Game Programming (1).pdf
+150,arista location based wearable child safety gadget,,,,./reports_doc/Group 42.pdf
+151,greenhouse monitoring and automation,,flask,mongodb,./reports_doc/Group 81.pdf
+152,electronic queue application for appointment scheduling and token generation,,,sqlite mysql,./reports_doc/Group 88.pdf
+153,fpga implementation of object counting using colour recognition technique,opencv,,,./reports_doc/GROUP NO 83 (1).pdf
+154,efficient remote voting system,,,mysql,./reports_doc/Group no 87.pdf
+155,study kit for can system,,angular,,./reports_doc/GROUP no 94 _ CAN PROTOCOL_.pdf
+156,sign language assessment tool,opencv tensorflow numpy kera,,,./reports_doc/group no. 84.pdf
+157,iot infrastructure for bluetooth low energy to wi-fi gateway,,,,./reports_doc/group no.55.pdf
+158,sign language conversion to solve mathematical problems,opencv,angular,,./reports_doc/GROUP NO.69_SIGN_LANGUAGE_REPORT.pdf
+159,face recognition by guide in,opencv,,,./reports_doc/Group no.82.pdf
+160,to beginner guide to embedded of requirement for the of for programming,,react,,./reports_doc/Group no_36_BE Final report.pdf
+161,internet tv gadget,,,sqlite postgresql mysql,./reports_doc/Group.No.7_InternetTvGadget_report.pdf
+162,oceanographic object recognition,opencv scipy numpy,,,./reports_doc/Group.No_01.pdf
+163,automatic attendance monitoring sysytem,opencv,,,./reports_doc/Group.No_02.pdf
+164,autonomous 2d slam robot,,angular,,./reports_doc/Group.No_03.pdf
+165,video based indian sign language recognition system,,,,./reports_doc/Group.No_05.pdf
+166,automated detection of autism,,,,./reports_doc/Group.No_06.pdf
+167,human drowsiness yawn detection based on image processing,panda opencv scipy numpy,,,./reports_doc/Group.No_09.pdf
+168,real time operated smart robot,,,,./reports_doc/Group.No_10.pdf
+169,hardware implementation steganography,,,,./reports_doc/Group.No_100.pdf
+170,dual axis solar tracking system,,angular,,./reports_doc/Group.No_101.pdf
+171,self balancing robot,,angular,,./reports_doc/Group.No_103.pdf
+172,fer system,opencv,,,./reports_doc/Group.No_104.pdf
+173,color sorting using pick and place arm,,,,./reports_doc/Group.No_105.pdf
+174,power windows using can communication,,angular,,./reports_doc/Group.No_106.pdf
+175,quantitative tool for neurotherapy,,flask react,,./reports_doc/Group.No_107.pdf
+176,pattern generation for tactile sensing using paraffin wax actuators,,,,./reports_doc/Group.No_11.pdf
+177,follow me smart luggage,opencv,,,./reports_doc/Group.No_110.pdf
+178,exo-skeleton arm,,,,./reports_doc/Group.No_14.pdf
+179,spectrum sensing using machine learning in cognitive radio,,,,./reports_doc/Group.No_15.pdf
+180,segmentation of brain tumor images,,angular,,./reports_doc/Group.No_16.pdf
+181,motion activated security system,,,,./reports_doc/Group.No_17.pdf
+182,bandwidth enhancement of patch antenna for ultra wideband applications,,angular,,./reports_doc/Group.No_18.pdf
+183,supply chain management using blockchain,,angular,,./reports_doc/Group.No_19.pdf
+184,intelligent traffic control system,opencv,,,./reports_doc/Group.No_20.pdf
+185,lora based energy meter,,,,./reports_doc/Group.No_21.pdf
+186,lora based flow meter,,,,./reports_doc/Group.No_22.pdf
+187,stock price prediction using machine learning,,,,./reports_doc/Group.No_23.pdf
+188,smart e-rationing system,,,,./reports_doc/Group.No_24.pdf
+189,use of gabor filter for classification of facial expressions,,,,./reports_doc/Group.No_25.pdf
+190,audio steganography using block mapping technique,,,,./reports_doc/Group.No_26.pdf
+191,automotive operating system,,,,./reports_doc/Group.No_27.pdf
+192,multimodal emotion recognition system,,,,./reports_doc/Group.No_28.pdf
+193,content based image retrieval,,,,./reports_doc/Group.No_29.pdf
+194,predicting the outcome of cricket match,panda scipy numpy scikit-learn,,,./reports_doc/Group.No_30.pdf
+195,doorlock,opencv,angular,,./reports_doc/Group.No_32.pdf
+196,performance evaluation of feature extraction technique for facial analysis,numpy panda scipy scikit-learn opencv,,,./reports_doc/Group.No_33.pdf
+197,sign language conversion for tiny-tots,,,,./reports_doc/Group.No_34.pdf
+198,image encryption using elliptic curve cryptography,opencv numpy,,,./reports_doc/Group.No_35.pdf
+199,digital assistant for driver,nltk,,,./reports_doc/Group.No_36.pdf
+200,emotion detection using speech recognition,,,,./reports_doc/Group.No_37.pdf
+201,tonic identification in indian music,,,,./reports_doc/Group.No_38.pdf
+202,women safety device,,,sqlite,./reports_doc/Group.No_39.pdf
+203,fall detection device for senior citizens,,angular,,./reports_doc/Group.No_40.pdf
+204,content based image retrival,opencv numpy,,,./reports_doc/Group.No_42.pdf
+205,video steganography using python,opencv tensorflow,django,,./reports_doc/Group.No_43.pdf
+206,virtual library system,,flask django,mysql,./reports_doc/Group.No_44.pdf
+207,sitwell-the posture correcting device-2,,,mysql,./reports_doc/Group.No_45.pdf
+208,sitwell-the posture correcting device-1,,,,./reports_doc/Group.No_46.pdf
+209,animatronics hand,,,,./reports_doc/Group.No_47.pdf
+210,3-d object scanning and printing,,,,./reports_doc/Group.No_49.pdf
+211,cyber security authentication using audio water marking system,,,,./reports_doc/Group.No_50.pdf
+212,stage based on color,,,,./reports_doc/Group.No_51.pdf
+213,implementation of aes algorithm on fpga,,,,./reports_doc/Group.No_53.pdf
+214,gesture to text conversion,,,,./reports_doc/Group.No_56.pdf
+215,vehicle fuel monitoring system,,,,./reports_doc/Group.No_57.pdf
+216,pharmacy software,,,,./reports_doc/Group.No_58.pdf
+217,stage stock market prediction using machine learning,tensorflow kera,,,./reports_doc/Group.No_59.PDF
+218,ear biometrics,,,,./reports_doc/Group.No_60.pdf
+219,aerial image analysis using novel feature descriptors,tensorflow,angular,,./reports_doc/Group.No_61.pdf
+220,remote switching using raspberry pi,,,mysql,./reports_doc/Group.No_62.pdf
+221,handwritten text recognition,,,,./reports_doc/Group.No_63.pdf
+222,analysis of transformer oil using image processing,,ionic,,./reports_doc/Group.No_64.pdf
+223,generic vehicle classification using machine learning,numpy kera scipy pytorch opencv tensorflow,,,./reports_doc/Group.No_65.pdf
+224,end to end sentence level lip-reading,scipy tensorflow numpy kera,,,./reports_doc/Group.No_66.pdf
+225,pcb fault detection using image processing,,,,./reports_doc/Group.No_67.pdf
+226,garbage atm and segregator,,,,./reports_doc/Group.No_68.pdf
+227,distributed electromagnetic spectrum database based on blockchain,,flask,,./reports_doc/Group.No_69.pdf
+228,quantitative tool for neurotherapy,,flask,,./reports_doc/Group.No_70.pdf
+229,arduino and bluetooth controlled programmable robotic arm,,angular,,./reports_doc/Group.No_71.pdf
+230,virtual trial room,opencv,react,,./reports_doc/Group.No_72.pdf
+231,brail to speech,,,,./reports_doc/Group.No_73.pdf
+232,plant recognition,panda numpy,,mariadb,./reports_doc/Group.No_74.pdf
+233,integrated smart stick for blind mobility,,,,./reports_doc/Group.No_75.pdf
+234,digital electronic meter monitoring and data logging sysytem,,,mysql,./reports_doc/Group.No_76.pdf
+235,feeding solar power to grid,,,,./reports_doc/Group.No_77.pdf
+236,currency note to coin dispenser with fake note detection,,,,./reports_doc/Group.No_81.pdf
+237,seed sowing using automization,,angular,,./reports_doc/Group.No_83.pdf
+238,automatic image colorization based on convolutional neural network,numpy kera scipy anaconda tensorflow,,,./reports_doc/Group.No_85.pdf
+239,blood group recognition using image processing,,react,,./reports_doc/Group.No_86.pdf
+240,pest identification,,,,./reports_doc/Group.No_89.pdf
+241,solar ups system,,,,./reports_doc/Group.No_90.pdf
+242,human detection and tracking with drone,,,,./reports_doc/Group.No_91.pdf
+243,coconut tree climbing robot part,,,,./reports_doc/Group.No_93.pdf
+244,coconut tree climbing robot part,,,,./reports_doc/Group.No_94.pdf
+245,design of uwb microstrip antenna with frequency notch characteristics,,angular,,./reports_doc/Group.No_95.pdf
+246,secured wireless communication between remote army stations,,,,./reports_doc/Group.No_98.pdf
+247,dynamic grid distrubition management network,,,,./reports_doc/Group.No_99.pdf
+248,optical character recognition,scikit-learn opencv scipy numpy,,,./reports_doc/group32.pdf
+249,hand gesture recognition system using microsoft kinect for better human interaction,,,,./reports_doc/Hand Gesture Recognition System using Microsoft Kinect_for a better Human Computer Interaction_60.pdf
+250,hate speech detection on twitter using sentiment analysis to the in the of the for the award of the of of,spyder,,mysql,./reports_doc/HATE SPEECH DETECTION ON TWITTER_USING SENTIMENT ANALYSIS.pdf
+251,hiring decision support system hiring decision support system,,angular angularjs,postgresql,./reports_doc/HIRING DECISION SUPPORT SYSTEM_13.pdf
+252,hpc cloudburst using docker of the of,,,,./reports_doc/HPC clodburst using docker_42.pdf
+253,human action recognition system of the of,,,mysql,./reports_doc/Human Action Recognition System.pdf
+254,human detection and gender classification using machine learning based approach towards the of the of of,numpy kera panda scipy opencv,django,,./reports_doc/Human detection and gender classification using Machine Learning based approach_10.pdf
+255,image generation in the style of artists using deep learning,,react,,./reports_doc/Image Generation in the Style of Artists Using Deep Learning_65.pdf
+256,image generation of human faces from text description using generative adversarial networks to the in the of the for the award of the of of,nltk pytorch,django,mysql,./reports_doc/IMAGE GENERATION OF HUMAN FACES FROM_TEXT DESCRIPTION USING GENERATIVE_ADVERSARIAL NETWORKS.pdf
+257,image search,numpy kera spyder scipy anaconda tensorflow,,,./reports_doc/Image_Search_Report25.pdf
+258,implementation of hpcg using mpi and gpus,,,,./reports_doc/implementation of HPCG using MPI and GPUs_7.pdf
+259,be title,,,,./reports_doc/Implementation of QoE-QoS in SDN_52.pdf
+260,improving performance of virtual machines by virtio bridge bypass for pci devices,panda,,,./reports_doc/Improving performance of Virtual Machines by Virtio Bridge Bypass for PCI devices_69.pdf
+261,indoor location based services using bluetooth low energy,,,mongodb,./reports_doc/Indoor Location based Services using Bluetooth Low Energy_47.pdf
+262,indoor positioning with ble beacons using voronoi mapping,,laravel,mysql,./reports_doc/Indoor Positioning system with BLE beacons using voronoi mapping.pdf
+263,insider threat detection and adaptive two factor authentication system for cloud computing by analyzing system logs to the in the of the for the award of the of of,,,,./reports_doc/INSIDER THREAT DETECTION AND_ADAPTIVE TWO FACTOR_AUTHENTICATION SYSTEM FOR CLOUD_COMPUTING BY ANALYZING SYSTEM_LOGS.pdf
+264,be title of the for the award of,,,,./reports_doc/Integrated File Viewer_5.pdf
+265,integration of deeplearning4j library with apache apex framework of the of,,,,./reports_doc/Integration of DeepLearning4j with Apache Apex framework_60.pdf
+266,intelligent cyber security system to the in the of the for the award of the of of,,flask,mongodb,./reports_doc/INTELLIGENT CYBER SECURITY SYSTEM.pdf
+267,intelligent financial portfolio to the in the of the for the award of the of of,,,mysql,./reports_doc/INTELLIGENT FINANCIAL PORTFOLIO.pdf
+268,intelligent holiday planner,,,mysql mongodb,./reports_doc/Intelligent Holiday Planner.pdf
+269,intelligent recruitment assistant of the of,nltk numpy panda scikit-learn tensorflow,angularjs,postgresql neo4j mongodb,./reports_doc/Intelligent Recruitment Assistant_33.pdf
+270,intelligent toll automation system,,,mysql mariadb,./reports_doc/INTELLIGENT TOLL AUTOMATION SYSTEM_50.pdf
+271,intelligent transportation system,numpy kera scipy anaconda opencv tensorflow,,,./reports_doc/Intelligent transportation system_71.pdf
+272,intelligent assistant,,,,./reports_doc/IntelligentAssistant.pdf
+273,interactive chatbot of the of,nltk scikit-learn scipy numpy,angularjs,mongodb,./reports_doc/Interactive ChatBot_5.pdf
+274,interactive physical experiences for micro-locations using beacon technology,,,postgresql,./reports_doc/INTERACTIVE PHYSICAL EXPERIENCES FOR MICRO-LOCATION USING BEACON TECHNOLOGY_16.pdf
+275,interactive store system,,react,mysql mongodb,./reports_doc/Interactive Store System_12.pdf
+276,interactive user behaviour analysis and recommendation system using web log mining of the of,,,sqlite mongodb,./reports_doc/Interactive User Behaviour Analysis and_Recommendation System Using Web Log_Mining_15.pdf
+277,iot based bike black box to the in the of the for the award of the of of,,react,mysql,./reports_doc/IOT BASED BIKE BLACK BOX.pdf
+278,iot based health alliance help desk towards the of the of of,,,sqlite mysql,./reports_doc/IOT BASED HEALTH ALLIANCE HELP DESK_41.pdf
+279,lazynotes,,,redis mongodb,./reports_doc/lazynotes_54.pdf
+280,leader election algorithm for wireless network,,,,./reports_doc/LEADER ELECTION ALGORITHM FOR WIRELESS_NETWORK_34.pdf
+281,live backup of nfs using network intelligence of the of,opencv,,,./reports_doc/Live Backup of NFS using Network_Intelligence_44.pdf
+282,be title,,react,,./reports_doc/Live process migration in mobil e env_63.pdf
+283,logistic solutions for multiple scenarios using wireless sensor network,,flask,mongodb,./reports_doc/Logistic Solutions for Multiple Scenarios using Wireless_Sensor Network_21.pdf
+284,log structured segment cleaning policy,,,,./reports_doc/Log_structured_segment_cleaning_policy_49.pdf
+285,m2m communication,,,,./reports_doc/M2M Communication_2.pdf
+286,machine learning agent for game development to the in the of the for the award of the of of,tensorflow,,,./reports_doc/MACHINE LEARNING AGENT FOR GAME_DEVELOPMENT.pdf
+287,machine learning based network traffic classification of the of,,,,./reports_doc/Machine Learning Based Network Traffic Classification.pdf
+288,managing land ownership using blockchain to the in the of the for the award of the of of,,,mongodb,./reports_doc/MANAGING LAND OWNERSHIP USING_BLOCKCHAIN.pdf
+289,marathi translation using word sense disambiguation of the of,nltk,flask,,./reports_doc/Marathi translation using wsd concept_36.pdf
+290,meta data and content based youtube video tag generation to the in the of the for the award of the of of,scipy opencv tensorflow kera,,,./reports_doc/META DATA AND CONTENT BASED YOUTUBE_VIDEO TAG GENERATION.pdf
+291,meta-app framework for incognito mode of smartphone applications,,flask,sqlite mongodb,./reports_doc/METAAPP A FRAMEWORK FOR INCOGNITO_MODE OF SMARTPHONE APPLICATIONS_25.pdf
+292,metering and throttling for remedy applications,,,mysql,./reports_doc/Metering and Throttling for Remedy_Applications_76.pdf
+293,micro video recommendation system for content writer to the in the of the for the award of the of of,,,mysql,./reports_doc/MICRO VIDEO RECOMMENDATION_SYSTEM FOR CONTENT WRITER.pdf
+294,multidocument abstractive summarization,nltk anaconda numpy,,,./reports_doc/Multi-document Abstractive Summarization_1.pdf
+295,multi keyword ranked search over encrypted data of the of,,,,./reports_doc/Multikeyword ranked search over encrypted data.pdf
+296,music discovery using content based paradigms,panda tensorflow numpy kera,django,,./reports_doc/Music Discovery Using Content Based Paradigms.pdf
+297,n-scalar to the in the of the for the award of the of of,panda scipy opencv,flask,,./reports_doc/N-SCALAR.pdf
+298,natural language description of videos of the for the award of,scipy anaconda numpy,,,./reports_doc/Natural Language Description of Videos_46.pdf
+299,negative news no more of the of,nltk numpy panda scipy scikit-learn,,mysql,./reports_doc/negative news no more_42.pdf
+300,network edge computing device,,,mysql mariadb,./reports_doc/NETWORK EDGE COMPUTING DEVICE_35.pdf
+301,network monitor through arm processor,,,mysql mongodb,./reports_doc/NETWORK MONITOR THROUGH ARM PROCESSOR_22.pdf
+302,title of the of,,catalyst,mysql redis,./reports_doc/NETWORK MONITORING TOOL_45.pdf
+303,nextgen router fortifying router using openwrt and cloud of the of,,django,mysql mongodb,./reports_doc/NextGen_Router_17.pdf
+304,nfc health management of the of,,flask,mysql mongodb,./reports_doc/Nfc-Health-Management_14.pdf
+305,nobody parks here to the in the of the for the award of the of of,opencv,,,./reports_doc/NOBODY PARKS HERE.pdf
+306,notification service for cmdb of the of,,,mongodb,./reports_doc/NOTIFICATION SERVICE FOR CMDB.pdf
+307,novice tourist recommendation system to the in the of the for the award of the of of,panda numpy,,,./reports_doc/Novice Tourist Recommendation System.pdf
+308,object-based visual sentiment concept analysis and application of the of,opencv numpy,,,./reports_doc/Object Based Visual Sentiment Analysis.pdf
+309,obstacle avoidance using reinforcement learning to the in the of the for the award of the of of,anaconda,,,./reports_doc/OBSTACLE AVOIDANCE USING_REINFORCEMENT LEARNING.pdf
+310,ocr pre-processing of the of,numpy spyder scipy anaconda opencv tensorflow,,,./reports_doc/Ocr Pre-Processing.pdf
+311,online review analysis to the in the of the for the award of the of of,nltk panda numpy,flask,mongodb,./reports_doc/ONLINE REVIEW ANALYSIS.pdf
+312,making installation of openairinterface easier of the of,,,mysql,./reports_doc/OpenAir Interface.pdf
+313,openstack resource management tool,,react,mysql,./reports_doc/OpenStack Resource Management Tool_ 33.pdf
+314,optical coherence tomography oct report generator to the in the of the for the award of the of of,,,,./reports_doc/OPTICAL COHERENCE_TOMOGRAPHY(OCT) REPORT_GENERATOR.pdf
+315,optimal path-finding in virtual reality,,react,,./reports_doc/Optimal Path-Finding in Virtual Reality_62.pdf
+316,optimised delivery management system for e-commerce of the of,,,mysql,./reports_doc/OptimisedDeliveryManagementSystemForE-Commerce_40.pdf
+317,packet drop reduction by flow monitoring in sdn/nfv architecture,,react,,./reports_doc/packet drop reduction by flow monitoring in sdn-nfv architecture group_id_24.pdf
+318,parallelization and optimization of open source image processing software on nvidia gpgpu using cuda-c,opencv,angular,,./reports_doc/Parallelization and Optimization of Image processing software using GPGPU with Cuda-c_70.pdf
+319,parallelization of region growing image segmentation algorithm for colour image,opencv,,,./reports_doc/PARALLELIZATION OF REGION GROWING IMAGE SEGMENTATION AL-_GORITHM FOR COLOUR IMAGE_40.pdf
+320,pattern detection and recognition system for vehicles to the in the of the for the award of the of of,opencv tensorflow,,mongodb,./reports_doc/PATTERN DETECTION AND_RECOGNITION SYSTEM FOR VEHICLES.pdf
+321,pattern recognition in images of the of,scipy numpy,,,./reports_doc/PATTERN RECOGNITION IN IMAGES_58.pdf
+322,pattern detection and recognition using deep learning,panda scikit-learn scipy numpy,,,./reports_doc/pattern_detection_and_recognition_using_deep_learning_group_id_65.pdf
+323,personality prediction system,,,mysql,./reports_doc/Personality Prediction System.pdf
+324,personality prediction system using twitter data to the in the of the for the award of the of of,nltk,flask,,./reports_doc/PERSONALITY PREDICTION SYSTEM_USING TWITTER DATA.pdf
+325,physical web with vending machine,,,mysql,./reports_doc/PHYSICAL WEB WITH VENDING MACHINE_77.pdf
+326,pixtalk picture exchange communication for autism spectrum disorder in children using machine learning to the in the of the for the award of the of of,,flask,mysql,./reports_doc/PIXTALK_ PICTURE EXCHANGE COMMUNICATION_FOR AUTISM SPECTRUM DISORDER IN CHILDREN_USING MACHINE LEARNING.pdf
+327,plant disease detection using deep learning techniques of the of,opencv tensorflow,,,./reports_doc/Plant Disease Detection Using Deep Learning Techniques.pdf
+328,plant leaf disease identification of the for the award of,opencv,,,./reports_doc/PLANT LEAF DISEASE IDENTIFICATION_39.pdf
+329,platform for building enterprise solutions workflow manager to the in the of the for the award of the of of,,angular angularjs,mongodb,./reports_doc/PLATFORM FOR BUILDING ENTERPRISE_SOLUTIONS (WORKFLOW MANAGER).pdf
+330,police control room runtime analysis to the in the of the for the award of the of of,kera panda numpy opencv,flask,mysql,./reports_doc/POLICE CONTROL ROOM RUNTIME_ANALYSIS.pdf
+331,porting of zephyr os of the of,,angularjs,,./reports_doc/Porting Zephyr OS.pdf
+332,predicting myers-briggs personality type from writing style of the of,nltk pytorch tensorflow numpy,,metabase,./reports_doc/Predicting_MyersBriggs_Personality_type.pdf
+333,predictive data analysis using recommendation techniques and machine learning algorithms,numpy panda scipy anaconda scikit-learn,,,./reports_doc/Predictive data analysis using recommendation techniques_and machine learning algorithms_10.pdf
+334,price elasticity and optimization,panda anaconda numpy,,,./reports_doc/Price Elasticity and Optimization_6.pdf
+335,privacy preserving multi-keyword ranked search over encrypted cloud data of the of,,,,./reports_doc/Privacy Preserving Multi-Keyword Ranked_Search Over Encrypted Cloud Data_56.pdf
+336,product attribute extraction and comparator of the of,,,mongodb,./reports_doc/Product Attribute Extraction And Comparator_26.pdf
+337,mycroft ai of the of,nltk opencv,,redis mongodb,./reports_doc/Project Mycroft AI.pdf
+338,indoor object detection as assistive tool for visually impaired,opencv,,,./reports_doc/Project Report Group No. 61.pdf
+339,development of open source platform for ds-pic microcontroller,,,,./reports_doc/project report grp. no. 73.pdf
+340,development of android app making tool for landmark recognition,opencv,,,./reports_doc/Project_Report_group51.pdf
+341,provide chatbot functionality in bmc remedy ar system platform of the of,,angularjs,,./reports_doc/PROVIDE CHATBOT FUNCTIONALITY IN BMC REMEDY AR SYSTEM PLATFORM.pdf
+342,q/a generation application using nlp to the in the of the for the award of the of of,panda pytorch numpy,flask,,./reports_doc/QA GENERATION APPLICATION USING NLP.pdf
+343,query based car make and model recognition system using deep learning to the in the of the for the award of the of of,opencv numpy,django,sqlite mongodb,./reports_doc/QUERY BASED CAR MAKE AND MODEL_RECOGNITION SYSTEM USING DEEP_LEARNING.pdf
+344,question pair similarity and text summarization to the in the of the for the award of the of of,nltk numpy,flask,mysql,./reports_doc/Question Pair Similarity and Text Summarization.pdf
+345,quick learning tool,anaconda,angularjs flask ionic,postgresql mysql mongodb,./reports_doc/Quick Learning Tool.pdf
+346,re-admission risk prediction for heart attack to the in the of the for the award of the of of,panda numpy,flask,,./reports_doc/RE-ADMISSION RISK PREDICTION FOR_HEART ATTACK.pdf
+347,re-sequencing of associated news articles in feed using sentiment analysis,nltk panda,reactjs django,mysql,./reports_doc/Re-Sequencing of Associated News Articles in a Feed Using_Sentiment Analysis_28.pdf
+348,real time image description using deep learning of the of,opencv tensorflow numpy kera,,,./reports_doc/Real Time Image Description using Deep Learning.pdf
+349,real time web analytics of the of,,,neo4j,./reports_doc/Real Time Web Analytics_59.pdf
+350,real time web based supervisory control and data acquisition system,,angular angularjs,redis mongodb,./reports_doc/Real Time Web Based Supervisory Control and Data Acquisition_32.pdf
+351,real time vehicle tracking system for smart city of the of,,,mysql,./reports_doc/RealTimeVehicleTrackingSystem_groupid_11.pdf
+352,rebrace an intelligent solution for support helpdesk automation of the of,nltk,angularjs django,,./reports_doc/REBRACE _ AN INTELLIGENT SOLUTION FOR_SUPPORT HELPDESK AUTOMATION_20.pdf
+353,recommendation of crop and yield prediction based on multiple parameters using artiﬁcial neural network to the in the of the for the award of the of of,,,mysql,./reports_doc/Recommendation of crop and yield prediction_based on Multiple Parameters using Artificial_Neural Network.pdf
+354,recommendation using content based image retrieval to the in the of the for the award of the of of,,,mysql,./reports_doc/RECOMMENDATION USING CONTENT_BASED IMAGE RETRIEVAL.pdf
+355,operations management system,,flask,sqlite mysql mongodb,./reports_doc/REPORT _GROUP_NO_45.pdf
+356,multipurpose unmanned autonomous vehicle-i,opencv kera,flask,,./reports_doc/Report-Group-6.pdf
+357,multipurpose unmanned autonomous vehicle-ii,opencv kera,flask,,./reports_doc/Report-Group-71.pdf
+358,smart power factor correction system,,,,./reports_doc/report-groupno-47.pdf
+359,next generation analytics for bna,,,postgresql,./reports_doc/Report_Final_zip_9.pdf
+360,resume analysis through machine learning,,,mysql mariadb,./reports_doc/Resume analysis through machine learning_43.pdf
+361,retail analytics of the of,scipy numpy,flask,,./reports_doc/Retail_Analytics_61.pdf
+362,retroactive funnel analysis,,,neo4j mongodb,./reports_doc/Retroactive Funnel Analysis_53.pdf
+363,rmi based custom adapter,,,mysql,./reports_doc/RMI_Based_Custom_Adapter_8.pdf
+364,robust speaker recognition system for online authentication and real-time veriﬁcation of the of,numpy kera panda scipy tensorflow,flask,,./reports_doc/Robust Speaker Recognition System for  online authentication and real-time verification.pdf
+365,router reinforcement with openwrt and cloud of the of,,flask,mongodb,./reports_doc/RouterReinforcementwithOpenWrtandCloud_3.pdf
+366,sales order processing using sap,opencv,,,./reports_doc/SALES ORDER PROCESSING USING SAP_52.pdf
+367,scrutinizing behaviour of vm communication,,,,./reports_doc/SCRUTINIZING BEHAVIOUR OF VM COMMUNICATION.pdf
+368,security enhancement in vehicular system using gps and motion detection,,,mysql,./reports_doc/Security Enhancement in Vehicular System with GPS and Motion Detection_76.pdf
+369,security in iot,,flask react,,./reports_doc/SECURITY IN IOT_23.pdf
+370,sensor and reservation based interconnected parking system of the of,,angularjs react backbone.js,,./reports_doc/Sensor and reservation based interconnected parking system_36.pdf
+371,sentiment analysis on twitter data of the of,,react,,./reports_doc/SENTIMENT ANALYSIS ON TWITTER JDATA_74.pdf
+372,sign language recognition to the in the of the for the award of the of of,panda tensorflow numpy opencv,,,./reports_doc/SIGN LANGUAGE RECOGNITION.pdf
+373,simulator for bmc bladelogic server automation,,,sqlite,./reports_doc/SIMULATOR FOR BMC BLADELOGIC SERVER_AUTOMATION_35.pdf
+374,sisa securing images using selective alteration to the in the of the for the award of the of of,opencv tensorflow,,mysql,./reports_doc/SISA_ SECURING IMAGES USING_SELECTIVE ALTERATION.pdf
+375,smart business continuity application to the in the of the for the award of the of of,,angular angularjs,,./reports_doc/SMART BUSINESS CONTINUITY APPLICATION.pdf
+376,smart city garbage cans of the of,,,,./reports_doc/SMART CITY GARBAGE CAN_16.pdf
+377,smart room for elderly people,opencv,,,./reports_doc/SMART ROOM FOR ELDERLY PEOPLE_6.pdf
+378,smart room for elderly people,opencv,,,./reports_doc/Smart Room For Elderly Person_6.pdf
+379,smart study guide using machine learning to the in the of the for the award of the of of,,django,postgresql,./reports_doc/SMART STUDY GUIDE USING MACHINE_LEARNING.pdf
+380,smart surveillance system of the of,opencv,,,./reports_doc/Smart Surveillance System_71.pdf
+381,smart virtual assistant of the of,,angularjs react backbone.js,,./reports_doc/Smart virtual Assistant_31.pdf
+382,smart surveillance system,opencv,,mysql,./reports_doc/Smart_Surveillance System_49.pdf
+383,social impact poll generation system from tweets of the of,nltk numpy,django,mongodb,./reports_doc/Social Impact Poll Generation System from tweets_50.pdf
+384,software gpu utilities of the of,tensorflow numpy kera,,,./reports_doc/SOFTWARE GPU UTILITIES_32.pdf
+385,speech and speaker recognition for home security system,tensorflow,,,./reports_doc/Speech and Speaker Recognition_for Home Security System.pdf
+386,stock prediction using technical analysis to the in the of the for the award of the of of,,,mysql,./reports_doc/Stock Prediction Using Technical Analysis.pdf
+387,supply chain management for airlines using salesforce cloud of the for the award of,,,,./reports_doc/SUPPLY CHAIN MANAGEMENT FOR AIRLINES_USING SALESFORCE(CLOUD)_43.pdf
+388,supply chain management for automobile industry to the in the of the for the award of the of of,,angular flask,,./reports_doc/SUPPLY CHAIN MANAGEMENT FOR_AUTOMOBILE INDUSTRY.pdf
+389,suspect analysis using machine learning of the of,,,,./reports_doc/Suspect Analysis using Machine Learning.pdf
+390,system to guide visually impaired people of the of,,,,./reports_doc/System To Guide Visually Impaired People_47.pdf
+391,tag scanner cum price comparision for fashion products of the of,opencv,django,mysql mongodb,./reports_doc/TAG SCANNER CUM PRICE_COMPARISION FOR FASHION_PRODUCTS_13.pdf
+392,tele physiotherapy of the for the award of,,,mysql mongodb,./reports_doc/Telephysiotherapy_20.pdf
+393,text analysis for indian literature,scikit-learn,,sqlite,./reports_doc/Text Analysis for Indian Literature.pdf
+394,text mining algorithms for assessment of answer sheets of the of,,,mysql,./reports_doc/Text Mining Algorithms For Assessment of Answersheets.pdf
+395,using extractive approach based on latent semantic analysis text summarization,,,,./reports_doc/Text summarization using extractive approach based on latent semantic analysis_04.pdf
+396,using extractive approach based on latent semantic analysis text summarization,,,,./reports_doc/TEXT SUMMARIZATION_USING EXTRACTIVE APPROACH BASED ON LATENT SEMANTIC ANALYSIS_18.pdf
+397,text to image generation,panda pytorch numpy,,,./reports_doc/Text to Image Generation.pdf
+398,text to image synthesis in fashion to the in the of the for the award of the of of,pytorch tensorflow kera,,,./reports_doc/TEXT TO IMAGE SYNTHESIS IN FASHION.pdf
+399,transaction monitoring in public welfare projects using smart contracts to the in the of the for the award of the of of,,angular angularjs,,./reports_doc/TRANSACTION MONITORING IN PUBLIC_WELFARE PROJECTS USING SMART_CONTRACTS.pdf
+400,transparent distributed computing for cuda of the of,opencv,,,./reports_doc/Transparent Distributed Computing for CUDA_24.pdf
+401,be title,,,,./reports_doc/UCAN-Unified Communication for Assisting Novice.pdf
+402,use of cognitive technologies to aid decision making in the indian judiciary to the in the of the for the award of the of of,nltk panda kera,flask,mysql,./reports_doc/USE OF COGNITIVE TECHNOLOGIES TO AID_DECISION MAKING IN THE INDIAN_JUDICIARY.pdf
+403,user application for shop floor automation using data analytics of the of,scipy numpy,angularjs express.js,mongodb,./reports_doc/User Application for Shop Floor Automation using Data Analytics_14.pdf
+404,volunteer computing for high performance vcom,,,mysql,./reports_doc/vCom-Volunteer Computing for High Performance_26.pdf
+405,vehicular security system of the of,,,mysql,./reports_doc/VEHICULAR SECURITY SYSTEM_3.pdf
+406,vhdx ﬁle recovery of the of,,,,./reports_doc/VHDX File Recovery_54.pdf
+407,video based traffic control system,opencv,,,./reports_doc/VIDEO BASED TRAFFIC CONTROL SYSTEM_77.pdf
+408,video summarization using clustering techniques,opencv anaconda tensorflow,,,./reports_doc/Video Summarization using clustering techniques.pdf
+409,video summarization,,,mysql,./reports_doc/Video Summarization_31.pdf
+410,virtual arts gallery of the of,,,mysql,./reports_doc/Virtual Arts Gallery_75.pdf
+411,virtual lab for electronics of the of,,,,./reports_doc/Virtual Lab for Electronics_29.pdf
+412,virtual machine communication analysis to the in the of the for the award of the of of,scikit-learn,,,./reports_doc/VIRTUAL MACHINE COMMUNICATION_ANALYSIS.pdf
+413,visual question answering using deep learning,spacy numpy kera panda scipy anaconda scikit-learn opencv tensorflow,,,./reports_doc/Visual Question Answering Using Deep_Learning_30.pdf
+414,visualization as service of the of,,angular angularjs,mysql,./reports_doc/Visualization As A Sevice_11.pdf
+415,visually impaired assistant system to the in the of the for the award of the of of,opencv,,,./reports_doc/VISUALLY IMPAIRED ASSISTANT SYSTEM.pdf
+416,volunteer service automation for ngos,,,mysql,./reports_doc/Volunteer Automation For NGO_79.pdf
+417,detecting and removing web application vulnerabilities with static analysis and data mining,,,mysql,./reports_doc/Web_Vulnerability Scanner.pdf
+418,breast cancer detection and diagnosis using machine learning to the in the of the for the award of the of of,anaconda spyder,flask,mysql,./reports_doc/___BREAST CANCER DETECTION AND_DIAGNOSIS USING MACHINE LEARNING___.pdf
+419,straggler mitigation in distributed systems using machine learning,panda,,,./reports/01_Final_Report.pdf
+420,catch up nodejs based android application for streamlined plannings of meetings and get together,,,mongodb,./reports/02_final_report .pdf
+421,cloudbucket,,,sqlite,./reports/03_final_report.pdf
+422,library api for amazon s3,,,,./reports/04_final_report.pdf
+423,classification of attacks for network data,,,,./reports/05_Final_Report.pdf
+424,open source wi-fi hotspot management system based on advertisement revenues,,,sqlite mysql,./reports/08_final_report.pdf
+425,remote intelligent assistant reia,nltk,,,./reports/10_final_report.pdf
+426,food ordering application with smart recommendations for malls,,,sqlite mysql,./reports/11_final_report.pdf
+427,e-attendance,,,mongodb,./reports/12_final_report_major_proj_report.pdf
+428,autoscaling of application servers,,flask,mongodb,./reports/13_final_report.pdf
+429,cloudswitch sd-wan solution,,,redis,./reports/14 _final_report.pdf
+430,bblock data protection appliance,,catalyst angularjs,,./reports/15_final_report.pdf
+431,detection and recognition of logos in images,tensorflow-gpu tensorflow,,,./reports/16_final_report.pdf
+432,research and implement frameworks to support responsive web enterprise application,,angular,mysql,./reports/17_final_report.pdf
+433,information flow control with minimum tag disclosure,,,,./reports/18_final_report.pdf
+434,iot based prognostics and systems health management for manufacturing intelligence,,flask,mongodb,./reports/19_final_report.pdf
+435,sentimental analysis on news articles sentimental analysis on news articles to to,numpy,django,mysql mongodb,./reports/20_final_report.pdf
+436,improving authentication using image-block based graphical authentication system,,,mysql,./reports/21_final_report.pdf
+437,tierfs,,,,./reports/24-Tierfs.pdf
+438,live answer recognition through image processing in andrid application,opencv,,sqlite mysql,./reports/25_final_report.pdf
+439,backup box backup box for all personal for all personal data,,,mysql,./reports/26-05-2015-group id 38.pdf
+440,job recommendation using skill mining training business analysis for entrepreneurs,,django,cassandra,./reports/26_final_report.pdf
+441,high speed cloud log aggregation system hsclas,,react,,./reports/27_Final-Report(v1.4)HSCLAS-.pdf
+442,recommendation engine for site using apache mahout and hadoop,,,mysql,./reports/28_final_Report.pdf
+443,intelligent user profiling through integration of siem qradar and big data,,,,./reports/29_final_report.pdf
+444,blur removal on no-reference image using cpbd metric,opencv,,,./reports/30_final_report.pdf
+445,detect the location of key-points on face images using machine learning,spyder anaconda tensorflow panda scipy numpy,,,./reports/31_final_report.pdf
+446,invoker knowledge-based question answering bot,numpy tornado scikit-learn nltk,flask,,./reports/32_final_report.pdf
+447,smart component for geo-location based assignments,,angularjs angular,,./reports/33_final_report.pdf
+448,virtual stock market game application,,django,mongodb,./reports/34_Final_Report.pdf
+449,aggregation of technical stock calls,,django,postgresql mongodb,./reports/35 final report.pdf
+450,feature learning and autotagging of music using deep convolutional neural network,h5py kera tensorflow,,,./reports/36_final_report.pdf
+451,analysis of agricultural data an ensemble based hybrid approach,panda,,mongodb,./reports/37_finalReport_Revised.pdf
+452,real estate consulting using user profiling and behavioral tracking,numpy,,mariadb mysql,./reports/7_final_report.pdf
+453,eventnote event based reminder system,,,sqlite mysql,./reports/9_final_report.pdf.pdf
+454,audio signal processing for music analysis,numpy scipy,django,,./reports/AUDIO SIGNAL PROCESSING FOR MUSIC ANALYSIS.pdf
+455,automatic backup implementation for xfs on kernel level,,,,./reports/Automated_XFS_backup_application.pdf
+456,automatic multiple choice question generation from english text,,,,./reports/AutoTechQ.pdf
+457,content-based storage mode in btrfs,,,,./reports/BE Project Report - 35_QuadCores.pdf
+458,eyeglasses-free display,,angular,,./reports/BE Project Report - Group ID 28.pdf
+459,embedded analytics engine for bmc release process management rpm,,react angular,cassandra postgresql mysql,./reports/BE Project Report_1.pdf
+460,deepcode deep learning in code analysis,kera tensorflow,,,./reports/BE Project Report_10 .pdf
+461,real time bus vacacncy detection using iot approach for pmpl,,,sqlite mysql,./reports/BE Project Report_12.pdf
+462,congested scene analysis using dilated convolutional generative adversarial networks,pytorch anaconda opencv panda scipy numpy,flask,mongodb,./reports/BE Project Report_14.pdf
+463,intuitive intrusion detection/prevention system,,,,./reports/BE Project Report_17.pdf
+464,data visualization and report generation framework for nvidia,,react angularjs angular,mysql mongodb,./reports/BE Project Report_18.pdf
+465,sponsorship valuation by trademark matching in sports video,pytorch tensorflow opencv kera scipy numpy,,,./reports/BE Project Report_19.pdf
+466,isilon credential vault,,,mysql,./reports/BE Project Report_2.pdf
+467,automatic captioning for social media images,nltk,flask,mongodb,./reports/BE Project Report_20.pdf
+468,proactive monitoring of server logs to avoid instant server shutdown,,django angular,hbase mysql mongodb,./reports/BE Project Report_21.pdf
+469,data migration,,,mongodb mysql,./reports/BE Project Report_22.pdf
+470,praytm app for meditation,,,,./reports/BE Project Report_23.pdf
+471,assignment engine using microservices,,angularjs,,./reports/BE Project Report_24.pdf
+472,platform independent customization of integrated appliances,,,mysql,./reports/BE Project Report_26.pdf
+473,proactive task scheduling using distributed machine learning,numpy scipy spyder scikit-learn,,,./reports/BE Project Report_27.pdf
+474,e-voting an online election portal using 3-level authentication and hybrid aes-des,,,mysql,./reports/BE Project Report_28.pdf
+475,implementing social crm for an online grocery shopping platform using customer reviews,,angular,mysql,./reports/BE Project Report_29.pdf
+476,management of medical records for patient healthcare,,,mysql,./reports/BE Project Report_31.pdf
+477,secured layer mechanism for web based portals,,,mysql,./reports/BE Project Report_33.pdf
+478,landmark recognition and signboard translation,numpy scipy opencv tensorflow,,,./reports/BE Project Report_34.pdf
+479,node-nector for daily enpowerment,,react ionic,mysql,./reports/BE Project Report_36.pdf
+480,auto scheduler and deployer for enterprise test framework,,angular,,./reports/BE Project Report_38.pdf
+481,an hierarchical reinforcement learning approach for developing generalized game-playing agent,,,,./reports/BE Project Report_5.pdf
+482,cross cloud disaster recovery,,,,./reports/BE Project Report_6.pdf
+483,intelligent draft assistant,,,mysql,./reports/BE Project Report_7.pdf
+484,prevention and detection of sybil attacks in wsn,,,,./reports/BE Project Report_8.pdf
+485,prerequisites-a communtiy driven search engine,,django,neo4j mysql,./reports/BE_Project_Final_Report_31_Latex_final.pdf
+486,visualization of news,,react,,./reports/combinepdf.pdf
+487,decentralized file sharing,,,,./reports/DecentralizedFileSharing_FinalReport.pdf
+488,automatic colorization of gray- scale images using machine learning,numpy opencv,,,./reports/Final Project Report.pdf
+489,efficient bandwidth utilization in wireless mesh networks,,,,./reports/FINAL PROJECT REPORT_PDF.pdf
+490,nutch+elasticsearch based data retrieval and reporting of aws service health status,,,,./reports/final report.pdf
+491,clothing classification system,opencv,,,./reports/FINAL-Project-Report-30-edited-sections.pdf
+492,geotagging based android application,,,mysql,./reports/final12.pdf
+493,isp bandwidth aggregation and optimization,,,,./reports/FinalReport29.pdf
+494,analysis and mapping of traffic spots on analysis and mapping of traffic spots on analysis and mapping of traffic spots on android system android system,,,,./reports/FinalReport_grpid_33.pdf
+495,grocery shopping android application with smart recommendation system,,angularjs,,./reports/Final_BE_PROJECT_REPORT17.pdf
+496,mobile based online collaboration,,,sqlite redis mongodb,./reports/final_report_print.pdf
+497,augmented reality app for home decor,,,,./reports/FULL REPORT30.pdf
+498,word problem solver,numpy panda spacy nltk,,,./reports/Group 11.pdf
+499,predictive modelling and failure analysis of hard disk,,,mongodb,./reports/Group 28 Report.pdf
+500,avoiding slow running nodes in distributed systems,,,,./reports/GroupId-10-Report .pdf
+501,development of secure file sharing and storage application for police department on private cloud secureshare,,,mysql,./reports/GROUPID32_REPORT.pdf
+502,car driver detection and accident prevention system,,angular,,./reports/Project Report (16).pdf
+503,authentication security enhancement for lio target,,,,./reports/Project Report Group 9.pdf
+504,uconnect an intelligent system with similarity based approach towards creating patient network,,angularjs,mysql,./reports/Project Report Group ID 24.pdf
+505,user adaptive system,,react,,./reports/project report(37).pdf
+506,an intelligent network agent for securing virtual networks,,,,./reports/Project Report.pdf
+507,rdo orchestration using redhat heat,,django,mysql,./reports/Projectreport_grpid_39.pdf
+508,statistical analysis of log files in apache server,,,,./reports/Report GroupID-19.pdf
+509,analysis of user opinions for private institutes,,,,./reports/REPORT11.pdf
+510,android application for detecting and improving city infrastructure,,,mysql,./reports/Secure my way_Project_Report[14-15] -2-.pdf
